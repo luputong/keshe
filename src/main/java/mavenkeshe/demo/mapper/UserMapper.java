@@ -2,11 +2,9 @@ package mavenkeshe.demo.mapper;
 
 import mavenkeshe.demo.pojo.Admin;
 import mavenkeshe.demo.pojo.User;
-import org.apache.ibatis.annotations.Delete;
 import org.apache.ibatis.annotations.Insert;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;
-import org.springframework.stereotype.Service;
 
 import java.time.LocalDate;
 import java.util.List;
